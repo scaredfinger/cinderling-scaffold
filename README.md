@@ -1,5 +1,7 @@
 # Cinderling scaffold
 
+<img src="docs/logo.png" alt="Cinderling scaffold logo" width="240">
+
 A TypeScript pnpm and Nx monorepo with a backend, website, greeting and database libraries, PostgreSQL migrations, unit tests and Gherkin acceptance tests.
 
 ## Start locally
